@@ -26,5 +26,4 @@ public class ExceMain {
 		if(sc!=null)
 			sc.close();
 	}
-
 }

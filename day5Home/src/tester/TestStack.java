@@ -1,7 +1,6 @@
 package tester;
 
 import java.util.Scanner;
-
 import com.app.core.Emp;
 
 import stack.FixedStack;
